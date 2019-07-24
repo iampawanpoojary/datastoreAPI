@@ -1,4 +1,4 @@
-## Datastore App Engine (standard) API
+## Datastore App Engine (standard) API using Cloud Endpoints
 
 You can see the output and make API calls in the python notebook below:
 https://colab.research.google.com/github/iampawanpoojary/datastoreAPI/blob/master/datastoreAPI.ipynb
@@ -26,6 +26,9 @@ https://zimablue.appspot.com/getCustomers
 This displays all records in the datastore
 
 ### /getCustomerId
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/7433f1c85d3fbf5c5552)
+
 ```
 https://zimablue.appspot.com/getCustomerId?id={"agpzfnppbWFibHVlchULEghjdXN0b21lchiAgIDAl6SACgw"}
 ```
